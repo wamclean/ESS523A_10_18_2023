@@ -6,3 +6,4 @@ This is a line from RStudio
 
 # This is my first repository
 
+Huzzah
